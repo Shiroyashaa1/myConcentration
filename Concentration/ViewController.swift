@@ -37,7 +37,7 @@ class ViewController: UIViewController {
             button.backgroundColor = .orange
         } else {
             button.setTitle(emoji, for: .normal)
-            button.backgroundColor = .blue
+            button.backgroundColor = .white
         }
                 
     }
