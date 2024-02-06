@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D502FB72B6A7613003B463E /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D502FB62B6A7613003B463E /* Concentration.swift */; };
+		1D502FB92B6A7983003B463E /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D502FB82B6A7983003B463E /* Card.swift */; };
 		1DAAC1F22B5BB1E2009AF22C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAAC1F12B5BB1E2009AF22C /* AppDelegate.swift */; };
 		1DAAC1F42B5BB1E2009AF22C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAAC1F32B5BB1E2009AF22C /* SceneDelegate.swift */; };
 		1DAAC1F62B5BB1E2009AF22C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAAC1F52B5BB1E2009AF22C /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D502FB62B6A7613003B463E /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = SOURCE_ROOT; };
+		1D502FB82B6A7983003B463E /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		1DAAC1EE2B5BB1E2009AF22C /* Concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DAAC1F12B5BB1E2009AF22C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DAAC1F32B5BB1E2009AF22C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +60,8 @@
 		1DAAC1F02B5BB1E2009AF22C /* Concentration */ = {
 			isa = PBXGroup;
 			children = (
+				1D502FB62B6A7613003B463E /* Concentration.swift */,
+				1D502FB82B6A7983003B463E /* Card.swift */,
 				1DAAC1F12B5BB1E2009AF22C /* AppDelegate.swift */,
 				1DAAC1F32B5BB1E2009AF22C /* SceneDelegate.swift */,
 				1DAAC1F52B5BB1E2009AF22C /* ViewController.swift */,
@@ -102,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1DAAC1E92B5BB1E1009AF22C /* Build configuration list for PBXProject "Concentration" */;
+			buildConfigurationList = 1DAAC1E92B5BB1E1009AF22C /* Build configuration list for PBXProject "myConcentration" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1DAAC1F62B5BB1E2009AF22C /* ViewController.swift in Sources */,
+				1D502FB72B6A7613003B463E /* Concentration.swift in Sources */,
+				1D502FB92B6A7983003B463E /* Card.swift in Sources */,
 				1DAAC1F22B5BB1E2009AF22C /* AppDelegate.swift in Sources */,
 				1DAAC1F42B5BB1E2009AF22C /* SceneDelegate.swift in Sources */,
 			);
@@ -344,7 +352,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1DAAC1E92B5BB1E1009AF22C /* Build configuration list for PBXProject "Concentration" */ = {
+		1DAAC1E92B5BB1E1009AF22C /* Build configuration list for PBXProject "myConcentration" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1DAAC2002B5BB1E3009AF22C /* Debug */,
